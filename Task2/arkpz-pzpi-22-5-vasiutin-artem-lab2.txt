@@ -1,0 +1,170 @@
+МІНІСТЕРСТВО ОСВІТИ І НАУКИ УКРАЇНИ ХАРКІВСЬКИЙ НАЦІОНАЛЬНИЙ УНІВЕРСИТЕТ РАДІОЕЛЕКТРОНІКИ
+
+
+
+
+
+
+
+
+Лабораторна робота №2
+з дисципліни «Аналіз та рефакторинг коду»
+Тема: «РОЗРОБКА БАЗИ ДАНИХ ДЛЯ СЕРВЕРНОЇ ЧАСТИНИ ПРОГРАМНОЇ СИСТЕМИ ТА ПРИКЛАДНОГО ПРОГРАМНОГО ІНТЕРФЕЙСУ (API)»»
+
+
+
+
+
+
+
+
+
+Виконав:	    Перевірила:
+студент групи ПЗПІ-22-5                                                      ст. викл. каф. ПІ
+Васютін Артем Віталійович                                                 Дашенков Д.С
+
+
+
+
+
+
+
+
+
+
+Харків 2024
+
+2.1	Мета роботи
+Розробити базу даних для серверної частини програмної системи та прикладного програмного інтерфейсу.
+
+2.2 Опис інженерних рішень:
+
+Для реалізації програмної системи були прийняті такі інженерні рішення:
+1.	Архітектура проєкту:
+a.	Використано багаторівневу архітектуру із поділом на логічні рівні (MVC); 
+• Моделі (Models): визначають структуру даних, що зберігаються в базі даних; 
+• Контролери (Controllers): обробляють запити клієнтів і відповідають за виклик відповідних методів сервісів; 
+• Сервіси (Services): реалізують бізнес-логіку, включаючи взаємодію з базою даних;
+b.	Використано Entity Framework Core як ORM для роботи з базою даних.
+2.	Інструменти та технології:
+A.	Серверна частина: ASP .NET Core 8.0; 
+B.	База даних: SQL Server, міграція через Entity Framework Core;
+C.	Аутентифікація: реалізована через JWT (JSON Web Token); 
+D.	Документація API: автоматично генерується через Swagger;
+3.	Основна фунціональність 
+A.	Реєстрація та авторизація користувача
+B.	Додавання нових IoT-пристроїв;
+C.	Створення нових шаблонів та єфєктів
+
+
+
+
+2.3 Специфікація API для взаємодії серверної частини з клієнтами
+Ендпоінти:
+1.	User:
+A.	POST /api/User /login: Авторизація користувача;
+B.	POST /api/User /register: Реєстрація нового користувача;
+2.	IoT-пристрої
+A.	POST /api/Device: Додати новий пристрій;
+B.	GET /api/Device: Отримати інформацію про всі пристрої; 
+C.	GET /api/Device/{id}: Отримати інформацію про окремий пристрій за ID; 
+D.	PATCH /api/Device/{id}: Оновити інформацію про пристрій;
+E.	DELETE /api/Device/{id}: Видалити пристрій.
+3.	Шаблони
+A.	POST /api/ Templates:Додати новий шаблон
+B.	GET /api/ Templates: Отримати інформацію про шаблони
+C.	GET /api/ Templates /{id}:Отримати інформацію про окремий шаблон
+D.	PATCH /api/ Templates /{id}:Оновити інформацію про шаблони
+E.	DELETE /api/ Templates /{id}:Видалити шаблон
+4.	Ефекти
+A.	POST /api/ Effects:Додати новий ефект
+B.	GET /api/ Effects: Отримати інформацію про ефекти
+C.	GET /api/ Effects/{id}:Отримати інформацію про окремий ефект
+D.	PATCH /api/ Effects/{id}:Оновити інформацію про ефекти
+E.	DELETE /api/ Effects/{id}:Видалити ефект
+5.	Аналітика
+GET /api/ Analitics/new-user-last-week:Кількість нових користувачів за неділю
+
+
+
+
+2.4 Фрагменти програмного коду
+Логіка взаємодіїї серверної частини с бд
+Додавання нового дивайсу 
+
+   public async Task<ActionResult<Device>> PostDevice(Device device)
+   {
+       _context.Device.Add(device);
+       await _context.SaveChangesAsync();
+
+       return CreatedAtAction("GetDevice", new { id = device.DeviceId }, device);
+   }	
+Логіка взаємодіїї серверної частини с клієнтами
+Реєстрація нових клієнтів
+
+[HttpPost("Register")]
+public async Task<IActionResult> Register([FromBody] RegisterRequest registerRequest)
+{
+    if (string.IsNullOrEmpty(registerRequest.Username) || string.IsNullOrEmpty(registerRequest.Email) || string.IsNullOrEmpty(registerRequest.Password))
+    {
+        return BadRequest("Username, Email, and Password are required.");
+    }
+
+    var existingUser = await _context.Users
+        .FirstOrDefaultAsync(u => u.Email == registerRequest.Email);
+    if (existingUser != null)
+    {
+        return Conflict("User with this email already exists.");
+    }
+
+
+    var user = new Users
+    {
+        Username = registerRequest.Username,
+        Email = registerRequest.Email,
+        PasswordHash = registerRequest.Password,
+        CreatedAt = DateTime.UtcNow
+    };
+
+    _context.Users.Add(user);
+    await _context.SaveChangesAsync();
+
+    return CreatedAtAction("GetUsers", new { id = user.UserId} ,user);
+}
+
+
+
+
+
+2.5 Графічні ілюстрації
+UMl-діаграмма прецедентів
+
+ 
+Рис. 2.1 - UML-діаграма прецедентів
+ER-діаграма даних
+ 
+
+
+
+Діаграма структури бази даних
+
+ 
+
+
+	
+
+
+
+
+
+
+
+
+2.6 Висновок 
+
+У цьому проєкті: 
+• Розроблена серверна частина програмної системи з використанням ASP.NET Core.
+ • Реалізовані основні функції: облік медикаментів, інтеграція з IoTсенсорами, аналітика.
+ • Розроблена база даних із застосуванням Entity Framework Core, включаючи необхідні міграції. 
+• Реалізовані фонові завдання для перевірки терміну придатності медикаментів і умов зберігання. 
+• API спроектовано з використанням принципів REST.
