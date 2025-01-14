@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\api\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\api\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\Templates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Models\\Templates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\Effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Models\\Effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\api\\AnalyticsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\api\\AnalyticsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\TemplateEffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Models\\TemplateEffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\api\\APIUsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\api\\APIUsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__LightShow/master/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\Users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Models\\Users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\api\\TemplatesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\api\\TemplatesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\auth\\LoginRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Models\\auth\\LoginRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\auth\\RegisterRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Models\\auth\\RegisterRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Users\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Views\\Users\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Users\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Views\\Users\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Users\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Views\\Users\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Users\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Views\\Users\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Users\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Views\\Users\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:light_show\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "light_show\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\Users.cs",
+              "RelativeToolTip": "light_show\\Models\\Users.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowBEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T00:41:43.29Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TemplateEffects.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\TemplateEffects.cs",
+              "RelativeDocumentMoniker": "light_show\\Models\\TemplateEffects.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\TemplateEffects.cs",
+              "RelativeToolTip": "light_show\\Models\\TemplateEffects.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T17:55:39.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnalyticsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\api\\AnalyticsController.cs",
+              "RelativeDocumentMoniker": "light_show\\api\\AnalyticsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\api\\AnalyticsController.cs",
+              "RelativeToolTip": "light_show\\api\\AnalyticsController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T17:56:14.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Effect.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\Effect.cs",
+              "RelativeDocumentMoniker": "light_show\\Models\\Effect.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\Effect.cs",
+              "RelativeToolTip": "light_show\\Models\\Effect.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T17:55:41.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Templates.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\Templates.cs",
+              "RelativeDocumentMoniker": "light_show\\Models\\Templates.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\Templates.cs",
+              "RelativeToolTip": "light_show\\Models\\Templates.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T17:55:40.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\api\\UsersController.cs",
+              "RelativeDocumentMoniker": "light_show\\api\\UsersController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\api\\UsersController.cs",
+              "RelativeToolTip": "light_show\\api\\UsersController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T17:40:27.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "light_show\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "light_show\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:42:21.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TemplatesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\api\\TemplatesController.cs",
+              "RelativeDocumentMoniker": "light_show\\api\\TemplatesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\api\\TemplatesController.cs",
+              "RelativeToolTip": "light_show\\api\\TemplatesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:23:49.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APIUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\api\\APIUsersController.cs",
+              "RelativeDocumentMoniker": "light_show\\api\\APIUsersController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\api\\APIUsersController.cs",
+              "RelativeToolTip": "light_show\\api\\APIUsersController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:51:31.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "light_show\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "light_show\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:29:33.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "light_show\\Models\\auth\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\auth\\LoginRequest.cs",
+              "RelativeToolTip": "light_show\\Models\\auth\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:22:33.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "light_show\\Models\\auth\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Models\\auth\\RegisterRequest.cs",
+              "RelativeToolTip": "light_show\\Models\\auth\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:07:37.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "light_show\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "light_show\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T01:31:55.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Program.cs",
+              "RelativeDocumentMoniker": "light_show\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Program.cs",
+              "RelativeToolTip": "light_show\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:59:38.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "light_show\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "light_show\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T15:31:50.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "light_show\\Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "light_show\\Views\\Users\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T15:31:49.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "light_show\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "light_show\\Views\\Users\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T15:28:27.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Users\\.editorconfig",
+              "RelativeDocumentMoniker": "light_show\\Views\\Users\\.editorconfig",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Users\\.editorconfig",
+              "RelativeToolTip": "light_show\\Views\\Users\\.editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-17T13:03:22.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "light_show\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "light_show\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T15:14:11.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "light_show\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "light_show\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T13:05:47.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "light_show\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "light_show\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T21:48:50.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "light_show\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "light_show\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T13:06:08.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "light_show\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "light_show\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T13:06:06.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "light_show\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\learn\\\u0430\u0442\u0430\u0440\u043A\\light_show\\light_show\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "light_show\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:04:02.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__LightShow/master/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-15T22:24:10.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
