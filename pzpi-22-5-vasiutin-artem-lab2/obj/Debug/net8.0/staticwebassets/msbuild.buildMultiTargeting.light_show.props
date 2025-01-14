@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\light_show.props" />
-</Project>
